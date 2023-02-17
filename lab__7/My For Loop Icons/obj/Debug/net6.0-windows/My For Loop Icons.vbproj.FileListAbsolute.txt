@@ -1,0 +1,60 @@
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.exe
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.deps.json
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.runtimeconfig.json
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.dll
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.pdb
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.AssemblyReference.cache
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form1.resources
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form2.resources
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Resources.resources
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.GenerateResource.cache
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfoInputs.cache
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfo.vb
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.CoreCompileInputs.cache
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.dll
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\refint\My For Loop Icons.dll
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.pdb
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.genruntimeconfig.cache
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\ref\My For Loop Icons.dll
+C:\Users\Жанат\Desktop\Учеба 3 курс\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form3.resources
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.exe
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.deps.json
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.runtimeconfig.json
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.dll
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.pdb
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.AssemblyReference.cache
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form1.resources
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form2.resources
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form3.resources
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Resources.resources
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.GenerateResource.cache
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfoInputs.cache
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfo.vb
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.CoreCompileInputs.cache
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.dll
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\refint\My For Loop Icons.dll
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.pdb
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.genruntimeconfig.cache
+C:\Users\Aden\Desktop\СКВ\дфи7\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\ref\My For Loop Icons.dll
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.exe
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.deps.json
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.runtimeconfig.json
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.dll
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\bin\Debug\net6.0-windows\My For Loop Icons.pdb
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.AssemblyReference.cache
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form1.resources
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form2.resources
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Form3.resources
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My_For_Loop_Icons.Resources.resources
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.GenerateResource.cache
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.AssemblyInfo.vb
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.vbproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.dll
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\refint\My For Loop Icons.dll
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.pdb
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\My For Loop Icons.genruntimeconfig.cache
+\\Mac\Home\Desktop\My For Loop Icons\My For Loop Icons\obj\Debug\net6.0-windows\ref\My For Loop Icons.dll
